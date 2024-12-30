@@ -22,7 +22,8 @@ Users should be able to:
 
 ### Screenshot 🌠
 
-!()
+![image](https://github.com/user-attachments/assets/0e9b248f-e2f1-4507-89db-0981d3cbf885)
+
 
 ### Links 🔗
 
