@@ -50,7 +50,7 @@ nav a:last-child:hover {
 
 .hero {
     margin-block: 7em;
-    margin-top: 20em;
+    margin-top: 30em;
     text-align: center;
     font-family: 'poppins', sans-serif;
     display: flex;
@@ -66,10 +66,10 @@ h1 {
 }
 
 .hero p {
-    width: 29%;
+    width: 40%;
     margin: 0 auto;
     padding-bottom: 2.5em;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
 }
 
 .btn-1 {
