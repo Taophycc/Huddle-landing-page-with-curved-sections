@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links 🔗
 
-- Solution URL: [taophycc](https://your-solution-url.com)
-- Live Site URL: [taophycc](https://your-live-site-url.com)
+- Solution URL: [taophycc](https://github.com/Taophycc/Huddle-landing-page-with-curved-sections.git)
+- Live Site URL: [taophycc](https://taophycc.github.io/Huddle-landing-page-with-curved-sections/)
 
 ### Built with 🔧
 
